@@ -1,0 +1,14 @@
+# Fichiers compilés C/C++
+*.exe
+*.o
+*.obj
+*.out
+main
+
+# Archives
+*.zip
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
